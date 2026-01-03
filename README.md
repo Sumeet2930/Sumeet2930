@@ -66,4 +66,23 @@ JavaScript    █████████░ 85%
 React         ████████░░ 80%
 Backend       ███████░░░ 70%
 
+```
+
+---
+<img src="https://komarev.com/ghpvc/?username=Sumeet2930&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### ✅ What I Fixed (for your understanding)
+- Closed the **code block properly**
+- Converted random text into **proper sections**
+- Fixed **headings & separators**
+- Made it **GitHub-render safe**
+- Kept **100% of your content intact**
+
+If you want next:
+- 🎯 **FAANG-optimized version**
+- 🌌 **Ultra-minimal aesthetic**
+- 🤖 **Auto-update projects + stats**
+- 📄 **ATS-friendly GitHub profile**
+
+Just tell me 😁
 
