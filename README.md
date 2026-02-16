@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey!<br><br>I’m Sumeet, a Computer Science Engineering student who enjoys turning ideas into things that actually work. I like getting my hands dirty with code—building web projects, experimenting with new tech, and figuring out why something broke before figuring out how to fix it.<br><br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving—one project at a time.
+👋 Hey!<br>I’m a CSE student who likes building stuff that actually works — not just writing code that looks good on paper.<br><br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving—one project at a time.
 
 ---
 
