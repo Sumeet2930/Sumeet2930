@@ -1,6 +1,6 @@
 # About Me:
-##👋 Hey!<br><br>
-I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving—one project at a time.
+## 👋 Hey !<br><br>
+I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time).
 
 ---
 
@@ -61,7 +61,7 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 
 ## ⚡ Skill Levels
 ```text
-Python        ██████████ 90%
+C++           ██████████ 90%
 Java          ████████░░ 80%
 JavaScript    █████████░ 85%
 React         ████████░░ 80%
