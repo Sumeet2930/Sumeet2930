@@ -1,6 +1,7 @@
 # About Me:
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
+
 ## 👋 Hey !<br><br>
 I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time).
 
@@ -47,10 +48,12 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 
 ---
 
-## 📊 GitHub Stats:
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sumeet2930&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ---
 
