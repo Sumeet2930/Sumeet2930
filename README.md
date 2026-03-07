@@ -48,12 +48,14 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumeet2930&theme=radical&hide_border=false)<br/>
+## 🗂️ GitHub Stats:
+<p align="left">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" height="200" width="200" align="right"/>
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Sumeet2930&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 ---
 
