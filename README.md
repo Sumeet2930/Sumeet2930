@@ -46,7 +46,7 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 ## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumeet2930&theme=react-dark)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🗂️ GitHub Stats:
 <p align="left">
@@ -57,7 +57,7 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 ![](https://nirzak-streak-stats.vercel.app/?user=Sumeet2930&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📌 GitHub Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumeet2930&theme=radical)
