@@ -3,7 +3,7 @@
 <br><br>
 
 ## 👋 Hey !<br><br>
-I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time)....
+I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time)........
 
 ---
 
