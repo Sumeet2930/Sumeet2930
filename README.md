@@ -2,14 +2,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
 
-## 👋 Hey !<br><br>
-I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time) .
+## 👋 Hey !
+I’m a CSE student who likes building stuff that actually works, not just writing code that looks good on paper.<br>Most of what I’ve learned has come from building, breaking, and rebuilding things. I enjoy collaborating with people who are curious, motivated, and not afraid to try. Always learning, always improving (One project at a time).
 
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumeetkumar.sahoo.9?rdid=S40pNrlOstauJvH3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F12GhsKCLjTf%2F)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/accounts/login/?next=%2F_yoga_with_sumeet_%2F&source=omni_redirect)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumeetkumar.sahoo.9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yoga_with_sumeet_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet2930)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitkumarsahoo2930@gmail.com)
 
@@ -49,20 +49,20 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 🗂️ GitHub Stats:
-<p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" height="200" width="200" align="right"/>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Sumeet2930&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com/?user=Sumeet2930&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Sumeet2930&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ## 📌 GitHub Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumeet2930&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumeet2930&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumeet2930&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumeet2930&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumeet2930&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumeet2930&theme=radical" alt="Most Commit Language" />
+</p>
 
 ---
 
@@ -73,24 +73,3 @@ Java          ████████░░ 80%
 JavaScript    █████████░ 85%
 React         ████████░░ 80%
 Backend       ███████░░░ 70%
-
-```
-
----
-<img src="https://komarev.com/ghpvc/?username=Sumeet2930&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✅ What I Fixed (for your understanding)
-- Closed the **code block properly**
-- Converted random text into **proper sections**
-- Fixed **headings & separators**
-- Made it **GitHub-render safe**
-- Kept **100% of your content intact**
-
-If you want next:
-- 🎯 **FAANG-optimized version**
-- 🌌 **Ultra-minimal aesthetic**
-- 🤖 **Auto-update projects + stats**
-- 📄 **ATS-friendly GitHub profile**
-
-Just tell me 😁
-
