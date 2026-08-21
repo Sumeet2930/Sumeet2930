@@ -50,9 +50,9 @@ I’m a CSE student who likes building stuff that actually works, not just writi
 
 ## 🗂️ GitHub Stats:
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Sumeet2930&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-akankshs-projects-296d3a31.vercel.app?user=Sumeet2930&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a> -->
   <img src="https://streak-stats.demolab.com/?user=Sumeet2930&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
